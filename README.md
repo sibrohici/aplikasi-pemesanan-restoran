@@ -73,4 +73,3 @@ Proyek ini dibuat sebagai bagian dari proses pembelajaran pemrograman Java dan p
 ## Author
 
 Sibro Ummulisi
-Sibro Ummulisi
