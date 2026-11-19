@@ -29,9 +29,7 @@ aplikasi-pemesanan-restoran/
 ├── src/
 │   ├── Main.java
 │   └── Menu.java
-├── README.md
-├── .gitignore
-└── LICENSE
+└── README.md
 ```
 
 ## Cara Menjalankan
